@@ -29,7 +29,7 @@ body, html {
     padding: 5px;
     width: 100%;
 }
-#txt {
+p {
     margin-top: 2%;
     text-align: justify;
 }
