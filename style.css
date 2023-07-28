@@ -1,0 +1,39 @@
+body, html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+.header {
+    background-color: #333;
+    text-align: center;
+    color: #fff;
+    padding: 5px;
+    width: 100%;
+}
+#txt {
+    margin-top: 2%;
+    text-align: justify;
+}
+.content {
+    width: 65%;
+    margin: auto;
+}
+p, h2, figcaption {
+    font-family: 'Lato', sans-serif;
+    line-height: 1.5;
+}
+figure {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+}
+.im1 {
+    width: 100%;
+}
+.im2 {
+    height: 30%;
+}
