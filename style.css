@@ -5,7 +5,7 @@ body, html {
     padding: 0;
     overflow-x: hidden;
     color: #fff;
-    background: linear-gradient(-45deg, #3e1d42, #3a1121, #194d60, #0d5f4c);
+    background: linear-gradient(-45deg, #7a4081, #20236c, #24677f, #199e7f);
 	background-size: 400% 400%;
 	animation: gradient 5s ease infinite;
 	height: 100vh;
@@ -48,9 +48,15 @@ figure {
     margin-bottom: 5%;
     text-align: center;
 }
+
 .im1 {
     width: 100%;
 }
+
 .im2 {
     height: 30%;
+}
+
+figcaption {
+    margin-top: 7px;
 }
